@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "layout": {
+    "columns": 2,
+    "rows": 2,
+    "reading_order": "row-major"
+  },
+  "assets": [
+    {
+      "file": "layered-01.png",
+      "family": "layered",
+      "width": 1586,
+      "height": 992,
+      "sha256": "13e571666245bac02b2edd523538771119a2e878525cbb386be2c68112916355",
+      "license": "MIT",
+      "panels": [
+        {
+          "id": "L01",
+          "title": "多层能力支撑",
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "L02",
+          "title": "信息收敛与分发",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "L03",
+          "title": "共享平台与场景",
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "L04",
+          "title": "分层治理架构",
+          "row": 2,
+          "column": 2
+        }
+      ]
+    },
+    {
+      "file": "layered-02.png",
+      "family": "layered",
+      "width": 1586,
+      "height": 992,
+      "sha256": "4be60b95e4e03abf54254db3549768cfb436cba5c65ab2f51dfa73d573bdd7c5",
+      "license": "MIT",
+      "panels": [
+        {
+          "id": "L05",
+          "title": "战略分层与执行",
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "L06",
+          "title": "双体系协同",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "L07",
+          "title": "能力演进路径",
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "L08",
+          "title": "模块化服务底座",
+          "row": 2,
+          "column": 2
+        }
+      ]
+    },
+    {
+      "file": "matrix-01.png",
+      "family": "matrix",
+      "width": 1586,
+      "height": 992,
+      "sha256": "4b5cccfd16d55c3a41036cc02ba97d982bc06ca1df7d9493e6cecdbf4d04523e",
+      "license": "MIT",
+      "panels": [
+        {
+          "id": "M01",
+          "title": "产品能力全景",
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "M02",
+          "title": "系统架构分层",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "M03",
+          "title": "方案能力对比",
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "M04",
+          "title": "跨角色流程泳道",
+          "row": 2,
+          "column": 2
+        }
+      ]
+    },
+    {
+      "file": "matrix-02.png",
+      "family": "matrix",
+      "width": 1586,
+      "height": 992,
+      "sha256": "e91f66bf2d1b164cee60d74abf600a06fa8e6ce9835874490092bcd6c24fa123",
+      "license": "MIT",
+      "panels": [
+        {
+          "id": "M05",
+          "title": "端到端业务协作",
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "M06",
+          "title": "数据治理流转",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "M07",
+          "title": "服务能力分区",
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "M08",
+          "title": "组织与职责协同",
+          "row": 2,
+          "column": 2
+        }
+      ]
+    },
+    {
+      "file": "chart-01.png",
+      "family": "chart",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c86325cfaaa4deb880d4517d783ee6571ac9bb48230050ef4fb3a40a4745e727",
+      "license": "MIT",
+      "panels": [
+        {
+          "id": "C01",
+          "title": "趋势分析与指标",
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "C02",
+          "title": "分类对比与排序",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "C03",
+          "title": "构成分析与明细",
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "C04",
+          "title": "横向排名与分布",
+          "row": 2,
+          "column": 2
+        }
+      ]
+    },
+    {
+      "file": "chart-02.png",
+      "family": "chart",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "79938e635138cd6767502afd730e4e876b5195f73b51c832f602ce400a6fbfcc",
+      "license": "MIT",
+      "panels": [
+        {
+          "id": "C05",
+          "title": "进度与资源看板",
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "C06",
+          "title": "规模趋势与结构",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "C07",
+          "title": "指标小多图",
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "C08",
+          "title": "监测报告",
+          "row": 2,
+          "column": 2
+        }
+      ]
+    },
+    {
+      "file": "logic-01.png",
+      "family": "logic",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "428cacdb8cdf0688ab162e8a074581896dc693550eaf1de99ae600782e7a2bfc",
+      "license": "MIT",
+      "panels": [
+        {
+          "id": "G01",
+          "title": "反馈驱动闭环",
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "G02",
+          "title": "双向协作模型",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "G03",
+          "title": "平台协同网络",
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "G04",
+          "title": "阶段推进与交付",
+          "row": 2,
+          "column": 2
+        }
+      ]
+    },
+    {
+      "file": "logic-02.png",
+      "family": "logic",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c55ec19e902aa4909cbe9af550f219e7f80672a71e3d058a351ce4015b104cc6",
+      "license": "MIT",
+      "panels": [
+        {
+          "id": "G05",
+          "title": "三元协同体系",
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "G06",
+          "title": "双循环学习体系",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "G07",
+          "title": "目标拆解与支撑",
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "G08",
+          "title": "输入转化与输出",
+          "row": 2,
+          "column": 2
+        }
+      ]
+    }
+  ]
+}
